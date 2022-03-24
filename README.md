@@ -2,6 +2,8 @@
  
  __Projeto realizado no curso de Desenvolvimento Web FullStack do ProgramadorBR.__
  
+   Projeto criado com HTML e CSS.
+   
    A ideia era criar um site referente a um workshop a ser realizado, além de apresentar um espaço para cadastro onde os usuários pudessem se cadastrar para o evento e receber informações relevantes sobre o mesmo.
  
  Seguem os prints da página:
